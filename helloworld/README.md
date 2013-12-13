@@ -36,6 +36,3 @@ Instructions for running a simple application
 
 1. Create a Python file .py with the code. For example : HelloWord.py
 2. Execute: python HelloWord.py
-
-
-> Written with [StackEdit](https://stackedit.io/).
